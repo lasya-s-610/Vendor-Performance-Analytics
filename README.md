@@ -73,6 +73,12 @@ Negative profit-margin entries were retained for overall correlation analysis an
 
 ---
 
+## 📱 Dashboard 
+ 
+(VendorPerformance_dashboard.png)
+
+---
+
 ## 🧰 Tech Stack
 - **Database:** MySQL  
 - **Analysis & Processing:** Python (Pandas, Matplotlib, Seaborn)   
