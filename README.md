@@ -75,7 +75,7 @@ Negative profit-margin entries were retained for overall correlation analysis an
 
 ## 📱 Dashboard 
  
-(VendorPerformance_dashboard.png)
+![Vendor Performance Dashboard](VendorPerformance_dashboard.png)
 
 ---
 
