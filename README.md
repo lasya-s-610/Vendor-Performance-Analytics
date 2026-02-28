@@ -106,6 +106,6 @@ This analysis supports:
 
 
 ## Future Enhancements
--  Interactive Power BI dashboard for stakeholder reporting  
+- Interactive Power BI dashboard for stakeholder reporting  
 - Time-based vendor trend analysis 
-- Automate ingestion and SQL execution using scheduled pipelines
+- Automate ingestion and SQL execution
